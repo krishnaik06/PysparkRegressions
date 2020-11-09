@@ -17,7 +17,7 @@ Using pipenv to create virtual enviorment which content requirements
   ```
 - Then run command pipenv install
   ```bash
-  pipenv intall
+  pipenv install
   ```
   this will install all the dependences you need to run the project
 - Run jupyter notebook
