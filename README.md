@@ -28,4 +28,4 @@ Using pipenv to create virtual enviorment which content requirements
   jupyter notebook
   ```
   it will open the jupyter notebook and you can use spark in it.
-- Check if everything is working by using file test.ipynb 
+- Check if everything is working by using test.ipynb 
