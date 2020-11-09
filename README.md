@@ -9,7 +9,7 @@ Using pipenv to create virtual enviorment which content requirements
   If you don't have pipenv you need to install it you can see detail [here](https://pipenv-fork.readthedocs.io/en/latest/)
 
 - fork this repo
-    ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+    ![alt text](./img/Screenshot%202020-11-09%20at%2015.41.07.png "screen")
 - clone this repo in the your system
   ```bash
   git clone https://github.com/piyushtada/Pyspark-ML.git
