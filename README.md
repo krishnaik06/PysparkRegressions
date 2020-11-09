@@ -29,3 +29,11 @@ Using pipenv to create virtual enviorment which content requirements
   ```
   it will open the jupyter notebook and you can use spark in it.
 - Check if everything is working by using test.ipynb 
+
+
+
+# List of tasks in the project
+- [ ] Do exploratory data analysis
+- [ ] Make update to columns with categorical data
+- [ ] Visualise the results
+- [ ] Make data ready for models 
