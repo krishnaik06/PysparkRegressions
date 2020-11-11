@@ -38,9 +38,12 @@ Using pipenv to create virtual enviorment which content requirements
 
 
 # List of tasks in the project
-- [ ] Do exploratory data analysis
-- [ ] Make update to columns with categorical data
-
-- [ ] Visualise the results
-- [ ] Make data ready for models 
+- [*] Do exploratory data analysis
+- [*] Make update to columns with categorical data
+- [*] Visualise the results
+- [*] Make data ready for models 
 - [ ] Save the file 
+- [ ] Run one sample model to check everything uptill now working
+- [ ] Make list of models to apply
+- [ ] Apply models
+- [ ] Do hyperparameter tuning for the model
