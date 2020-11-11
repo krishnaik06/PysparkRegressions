@@ -30,10 +30,17 @@ Using pipenv to create virtual enviorment which content requirements
   it will open the jupyter notebook and you can use spark in it.
 - Check if everything is working by using test.ipynb 
 
+- when you want to open the secission again you need run following command after going in the PysparkML folder
+    ```bash
+  pipenv shell  
+  jupyter notebook
+  ```
 
 
 # List of tasks in the project
 - [ ] Do exploratory data analysis
 - [ ] Make update to columns with categorical data
+
 - [ ] Visualise the results
 - [ ] Make data ready for models 
+- [ ] Save the file 
