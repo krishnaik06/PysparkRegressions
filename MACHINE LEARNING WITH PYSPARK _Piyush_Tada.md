@@ -1,6 +1,6 @@
 # MACHINE LEARNING WITH PYSPARK
 
-[Pyspark with docker](https://www.notion.so/Pyspark-with-docker-b75be8ade1f244759c220ca8ef323bee)
+
 
 ```
 Machine Learning & Spark
