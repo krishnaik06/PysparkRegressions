@@ -42,8 +42,8 @@ Using pipenv to create virtual enviorment which content requirements
 - [x] Make update to columns with categorical data
 - [x] Visualise the results
 - [x] Make data ready for models 
-- [ ] Save the file 
-- [ ] Run one sample model to check everything uptill now working
-- [ ] Make list of models to apply
-- [ ] Apply models
-- [ ] Do hyperparameter tuning for the model
+- [x] Save the file 
+- [x] Run one sample model to check everything uptill now working
+- [x] Make list of models to apply
+- [x] Apply models
+- [x] Do hyperparameter tuning for the model
